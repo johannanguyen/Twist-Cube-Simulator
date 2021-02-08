@@ -7,7 +7,7 @@ To use:
 2. Ensure c++/g++ is installed on your computer.
 3. Compile the .c file by running the following in your terminal:<br>
     `g++ twist.c`
-4. Execute the following by running the following in your terminal:
+4. Execute the following by running the following in your terminal:<br>
     `a.exe [series of commands]` (if using Windows) -or-<br>
     `./a.out [series of commands]` (if using Linux)
     
