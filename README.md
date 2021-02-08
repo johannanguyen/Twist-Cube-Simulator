@@ -6,12 +6,12 @@ To use:
 1. Clone this repository
 2. Ensure c++/g++ is installed on your computer.
 3. Compile the .c file by running the following in your terminal:
-    g++ twist.c
+    `g++ twist.c`
 4. Execute the following by running the following in your terminal:
-    a.exe [series of commands] (if using Windows) -or-
-    ./a.out [series of commands] (if using Linux)
+    `a.exe [series of commands]` (if using Windows) -or-
+    `./a.out [series of commands]` (if using Linux)
     
-    Example: ./a.exe FR2U+L
+    Example: `./a.exe FR2U+L`
         ->Rotate front face clockwise
         ->Rotate right face twice
         ->Rotate upper face counter-clockwise
